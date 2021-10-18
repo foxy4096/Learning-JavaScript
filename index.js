@@ -42,7 +42,7 @@
 // println("Hello");
 
 
-hello = val => "Hello " + val;
+// hello = val => "Hello " + val;
 
 
-console.log(hello("User"))
+// console.log(hello("User"))
