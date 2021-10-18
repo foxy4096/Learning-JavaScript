@@ -34,3 +34,9 @@
 // }
 
 // console.log(person.getFullName())
+
+// function println(x){
+//     console.log(x);
+// }
+
+// println("Hello");
