@@ -40,3 +40,9 @@
 // }
 
 // println("Hello");
+
+
+hello = val => "Hello " + val;
+
+
+console.log(hello("User"))
